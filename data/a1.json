@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "title": "A1 Starter (Weeks 1–4)",
+    "includes": [
+      "greetings",
+      "introductions",
+      "numbers",
+      "basic verbs sein/haben",
+      "W-Fragen"
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "a1-001",
+      "de": "Guten Morgen!",
+      "en": "Good morning!",
+      "note": "formal or friendly"
+    },
+    {
+      "id": "a1-002",
+      "de": "Ich heiße …",
+      "en": "My name is …"
+    },
+    {
+      "id": "a1-003",
+      "de": "Wie geht’s?",
+      "en": "How are you?"
+    },
+    {
+      "id": "a1-004",
+      "de": "Mir geht’s gut.",
+      "en": "I’m doing well."
+    },
+    {
+      "id": "a1-005",
+      "de": "Ich komme aus …",
+      "en": "I come from …"
+    },
+    {
+      "id": "a1-006",
+      "de": "Ich spreche ein bisschen Deutsch.",
+      "en": "I speak a little German."
+    },
+    {
+      "id": "a1-007",
+      "de": "die Zahl, die Zahlen",
+      "en": "number(s)"
+    },
+    {
+      "id": "a1-008",
+      "de": "Ich bin 32 Jahre alt.",
+      "en": "I am 32 years old."
+    },
+    {
+      "id": "a1-009",
+      "de": "Wo wohnst du?",
+      "en": "Where do you live?",
+      "note": "informal"
+    },
+    {
+      "id": "a1-010",
+      "de": "Ich wohne in München.",
+      "en": "I live in Munich."
+    },
+    {
+      "id": "a1-011",
+      "de": "haben / sein",
+      "en": "to have / to be"
+    },
+    {
+      "id": "a1-012",
+      "de": "Ich habe keine Zeit.",
+      "en": "I don’t have time."
+    }
+  ],
+  "quiz": [
+    {
+      "promptDE": "Ich ___ Kremtim.",
+      "hintEN": "verb: to be",
+      "answers": [
+        "bin"
+      ]
+    },
+    {
+      "promptDE": "Wo ___ du? (live)",
+      "hintEN": "verb ending -st",
+      "answers": [
+        "wohnst du",
+        "wohnst"
+      ]
+    },
+    {
+      "promptDE": "Ich ___ 32 Jahre alt.",
+      "hintEN": "verb: to be",
+      "answers": [
+        "bin"
+      ]
+    },
+    {
+      "promptDE": "Ich ___ aus Serbien.",
+      "hintEN": "verb: to come",
+      "answers": [
+        "komme"
+      ]
+    },
+    {
+      "promptDE": "Ich ___ in München.",
+      "hintEN": "verb: to live",
+      "answers": [
+        "wohne"
+      ]
+    }
+  ],
+  "listen": [
+    {
+      "de": "Guten Morgen! Wie geht’s?",
+      "en": "Good morning! How are you?"
+    },
+    {
+      "de": "Ich heiße Kremtim. Ich komme aus Preševo.",
+      "en": "My name is Kremtim. I come from Preševo."
+    },
+    {
+      "de": "Ich wohne in München und lerne Deutsch.",
+      "en": "I live in Munich and I am learning German."
+    },
+    {
+      "de": "Ich spreche ein bisschen Deutsch.",
+      "en": "I speak a little German."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "title": "B1 Sprint (Weeks 13–24)",
+    "includes": [
+      "subordinate clauses",
+      "weil/dass",
+      "relative clauses",
+      "opinions",
+      "work & study"
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "b1-001",
+      "de": "Ich glaube, dass das eine gute Idee ist.",
+      "en": "I believe that is a good idea."
+    },
+    {
+      "id": "b1-002",
+      "de": "Weil ich krank bin, bleibe ich zu Hause.",
+      "en": "Because I am sick, I stay at home."
+    },
+    {
+      "id": "b1-003",
+      "de": "Der Mann, der dort steht, ist mein Lehrer.",
+      "en": "The man who is standing there is my teacher."
+    },
+    {
+      "id": "b1-004",
+      "de": "Meiner Meinung nach ist das wichtig.",
+      "en": "In my opinion that is important."
+    }
+  ],
+  "quiz": [
+    {
+      "promptDE": "Ich bleibe zu Hause, ___ ich krank bin.",
+      "hintEN": "because",
+      "answers": [
+        "weil"
+      ]
+    },
+    {
+      "promptDE": "Ich denke, ___ Deutsch schwer ist.",
+      "hintEN": "that",
+      "answers": [
+        "dass"
+      ]
+    }
+  ],
+  "listen": [
+    {
+      "de": "Ich glaube, dass wir heute viel lernen können.",
+      "en": "I believe that we can learn a lot today."
+    },
+    {
+      "de": "Weil es regnet, nehme ich den Bus.",
+      "en": "Because it is raining, I take the bus."
+    }
+  ]
+}

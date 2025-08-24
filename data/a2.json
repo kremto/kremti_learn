@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "title": "A2 Builder (Weeks 5–12)",
+    "includes": [
+      "past tense Perfekt",
+      "modal verbs",
+      "daily routines",
+      "appointments",
+      "shopping"
+    ]
+  },
+  "flashcards": [
+    {
+      "id": "a2-001",
+      "de": "Ich habe gearbeitet.",
+      "en": "I worked.",
+      "note": "Perfekt with haben"
+    },
+    {
+      "id": "a2-002",
+      "de": "Ich bin nach Hause gegangen.",
+      "en": "I went home.",
+      "note": "Perfekt with sein"
+    },
+    {
+      "id": "a2-003",
+      "de": "Könnten Sie mir helfen?",
+      "en": "Could you help me?"
+    },
+    {
+      "id": "a2-004",
+      "de": "Ich möchte einen Termin vereinbaren.",
+      "en": "I’d like to make an appointment."
+    },
+    {
+      "id": "a2-005",
+      "de": "Wie viel kostet das?",
+      "en": "How much is that?"
+    },
+    {
+      "id": "a2-006",
+      "de": "die Rechnung, bitte.",
+      "en": "the bill, please."
+    },
+    {
+      "id": "a2-007",
+      "de": "Ich habe gestern Deutsch gelernt.",
+      "en": "I studied German yesterday."
+    }
+  ],
+  "quiz": [
+    {
+      "promptDE": "Ich ___ gestern Fußball gespielt.",
+      "hintEN": "Perfekt with haben",
+      "answers": [
+        "habe"
+      ]
+    },
+    {
+      "promptDE": "Wir ___ nach Hause gegangen.",
+      "hintEN": "Perfekt with sein (wir)",
+      "answers": [
+        "sind"
+      ]
+    },
+    {
+      "promptDE": "___ Sie mir helfen? (polite)",
+      "hintEN": "modal verb, Konjunktiv II",
+      "answers": [
+        "Könnten"
+      ]
+    }
+  ],
+  "listen": [
+    {
+      "de": "Gestern habe ich lange gearbeitet.",
+      "en": "Yesterday I worked for a long time."
+    },
+    {
+      "de": "Könnten Sie mir bitte helfen?",
+      "en": "Could you please help me?"
+    },
+    {
+      "de": "Ich möchte morgen einen Termin vereinbaren.",
+      "en": "I would like to make an appointment tomorrow."
+    }
+  ]
+}
